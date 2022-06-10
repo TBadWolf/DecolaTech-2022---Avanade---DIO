@@ -6,4 +6,7 @@
 
  -- Segundo projeto
    Projeto um pouco mais trabalhado de uma lanterna para o celular, mais interativo, ao clique acende a lanterna e também responsivo ao chacoalhar o aparelho :)
+
+  -- Terceito projeto
+    Um projeto simples de um app que sorteia números aleatórios
    
