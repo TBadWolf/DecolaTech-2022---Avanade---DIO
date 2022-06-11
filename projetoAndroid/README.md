@@ -16,4 +16,7 @@
 
   -- Terceito projeto
     Um projeto simples de um app que sorteia números aleatórios
+
+  -- Quarto projeto
+    Um projeto simples de um "curriculo" mostrando informações básicas e direcionamentos através de links para o Github, Facebook, Linkedin e meu telefone :)
    

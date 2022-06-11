@@ -5,12 +5,15 @@ const style = StyleSheet.create({
       backgroundColor: '#ADD8E6',
       flex: 1,
       alignItems: 'center',
-      justifyContent: 'center'
+      justifyContent: 'center',
+      display: 'flex',
     },
     foto: {
-      width: 150,
-      height: 150,
+      width: 170,
+      height: 170,
       borderRadius: 125,
+      borderWidth: 3,
+      borderColor: 'white',
     },
     containerCabecalho: {
       alignItems: 'center',
@@ -25,6 +28,7 @@ const style = StyleSheet.create({
     funcao: {
       color: '#939393',
       marginBottom: 10,
+      fontSize: 20,
     },
     redes: {
       flexDirection: 'row',
@@ -44,16 +48,11 @@ const style = StyleSheet.create({
       flexDirection: 'column',
     },
     card2: {
-        width: '70%',
-        borderWidth: 1,
-        borderRadius: 5,
-        alignItems: 'center',
-        justifyContent: 'center',
-        marginTop: 20,
-        fontSize: 50,
-        flexDirection: 'column',
-        display: 'flex',
-      },
+      alignItems: 'center',
+      justifyContent: 'center',
+      marginTop: 10,
+      fontSize: 50, 
+    },
     cardHeader: {
       fontSize: 21,
       fontWeight: 'bold',
@@ -66,7 +65,8 @@ const style = StyleSheet.create({
       justifyContent: 'center',
       fontSize: 20,
       flexDirection: 'column',
-      textAlign: 'left',
+      display: 'flex',
+      textAlign: 'center',
     },
    });
   export default style;

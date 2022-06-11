@@ -58,16 +58,20 @@ const App = () => {
 
       
             <Card titulo= "Experiencia Profissional">
-                <Text> - Prefeitura Municipal de Guarulhos  </Text>
-                <Text> - Motospirit Importação ltda  </Text>
-                <Text> - Espaço Aduana Importação ltda  </Text>
+                <Text>-Prefeitura Municipal de Guarulhos  
+
+                 -Motospirit Importação ltda </Text> 
+                <Text>                         -Espaço Aduana Importação ltda  </Text>
                 </Card>
           
             
          
             <Card titulo= "Formação Academica">
-              <Text>- Análise e Desenv. de Sistemas - FAM </Text>
-              <Text>- Comércio Exterior - Uninove  </Text>
+              <Text>-Análise e Desenv. de Sistemas - FAM     
+                 </Text>                 
+              <Text>                      - Comércio Exterior - Uninove               
+              </Text>
+              <Text> </Text>
             </Card>
             </View>            
       </View>  
