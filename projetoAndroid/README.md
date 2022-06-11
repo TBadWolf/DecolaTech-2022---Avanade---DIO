@@ -16,7 +16,11 @@
 
   -- Terceito projeto
     Um projeto simples de um app que sorteia números aleatórios
+    
+![numeros aleatorios](https://user-images.githubusercontent.com/104402057/173170952-708e5fd2-6eb9-41a9-a3b9-869b3e1be2aa.png)
 
   -- Quarto projeto
     Um projeto simples de um "curriculo" mostrando informações básicas e direcionamentos através de links para o Github, Facebook, Linkedin e meu telefone :)
-   
+    
+   ![curriculo](https://user-images.githubusercontent.com/104402057/173170957-b85b0549-f261-4fe3-a81e-5371db2a055d.png)
+
